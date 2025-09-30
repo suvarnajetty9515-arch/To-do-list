@@ -23,19 +23,10 @@ CSS – Styling and animations
 
 JavaScript – App logic and interactivity
 
-🔧 Installation & Setup
-
-Clone the repository
-
-git clone https://github.com/jettysuvarna/todo-app.git
-
-Navigate to the project folder
-
-cd todo-app
-
 Open index.html in your browser
 
 📷 Application Interface
-![Application Interface](Application web interface.png)
+![Application Interface](./Application%20web%20interface.png)
+
 
 
