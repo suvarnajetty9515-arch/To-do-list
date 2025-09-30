@@ -36,5 +36,6 @@ cd todo-app
 Open index.html in your browser
 
 📷 Application Interface
-https://drive.google.com/file/d/1H_fnQUZQ5YF0zoz4AP64P-dT3q4k2_hg/view?usp=drive_link
+![Application Interface](Application web interface.png)
+
 
